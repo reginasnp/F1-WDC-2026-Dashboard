@@ -1,0 +1,10 @@
+fastf1
+pandas
+numpy
+plotly
+matplotlib
+scikit-learn
+kaleido
+openpyxl
+jupyter
+streamlit

@@ -1,0 +1,221 @@
+DriverNumber,TeamName,FullName,Position,GridPosition,Status,Points,Laps,GrandPrix
+63,Mercedes,George Russell,1.0,1.0,Finished,25.0,58.0,Australia
+12,Mercedes,Kimi Antonelli,2.0,2.0,Finished,18.0,58.0,Australia
+16,Ferrari,Charles Leclerc,3.0,4.0,Finished,15.0,58.0,Australia
+44,Ferrari,Lewis Hamilton,4.0,7.0,Finished,12.0,58.0,Australia
+1,McLaren,Lando Norris,5.0,6.0,Finished,10.0,58.0,Australia
+3,Red Bull Racing,Max Verstappen,6.0,20.0,Finished,8.0,58.0,Australia
+87,Haas F1 Team,Oliver Bearman,7.0,12.0,Lapped,6.0,57.0,Australia
+41,Racing Bulls,Arvid Lindblad,8.0,9.0,Lapped,4.0,57.0,Australia
+5,Audi,Gabriel Bortoleto,9.0,10.0,Lapped,2.0,57.0,Australia
+10,Alpine,Pierre Gasly,10.0,14.0,Lapped,1.0,57.0,Australia
+31,Haas F1 Team,Esteban Ocon,11.0,13.0,Lapped,0.0,57.0,Australia
+23,Williams,Alexander Albon,12.0,15.0,Lapped,0.0,57.0,Australia
+30,Racing Bulls,Liam Lawson,13.0,8.0,Lapped,0.0,57.0,Australia
+43,Alpine,Franco Colapinto,14.0,16.0,Lapped,0.0,56.0,Australia
+55,Williams,Carlos Sainz,15.0,21.0,Lapped,0.0,56.0,Australia
+11,Cadillac,Sergio Perez,16.0,18.0,Lapped,0.0,55.0,Australia
+18,Aston Martin,Lance Stroll,17.0,22.0,Lapped,0.0,43.0,Australia
+14,Aston Martin,Fernando Alonso,18.0,17.0,Retired,0.0,21.0,Australia
+77,Cadillac,Valtteri Bottas,19.0,19.0,Retired,0.0,15.0,Australia
+6,Red Bull Racing,Isack Hadjar,20.0,3.0,Retired,0.0,10.0,Australia
+81,McLaren,Oscar Piastri,21.0,5.0,Did not start,0.0,0.0,Australia
+27,Audi,Nico Hulkenberg,22.0,11.0,Did not start,0.0,0.0,Australia
+12,Mercedes,Kimi Antonelli,1.0,1.0,Finished,25.0,56.0,China
+63,Mercedes,George Russell,2.0,2.0,Finished,18.0,56.0,China
+44,Ferrari,Lewis Hamilton,3.0,3.0,Finished,15.0,56.0,China
+16,Ferrari,Charles Leclerc,4.0,4.0,Finished,12.0,56.0,China
+87,Haas F1 Team,Oliver Bearman,5.0,10.0,Finished,10.0,56.0,China
+10,Alpine,Pierre Gasly,6.0,7.0,Finished,8.0,56.0,China
+30,Racing Bulls,Liam Lawson,7.0,14.0,Finished,6.0,56.0,China
+6,Red Bull Racing,Isack Hadjar,8.0,9.0,Finished,4.0,56.0,China
+55,Williams,Carlos Sainz,9.0,17.0,Lapped,2.0,55.0,China
+43,Alpine,Franco Colapinto,10.0,12.0,Lapped,1.0,55.0,China
+27,Audi,Nico Hulkenberg,11.0,11.0,Lapped,0.0,55.0,China
+41,Racing Bulls,Arvid Lindblad,12.0,15.0,Lapped,0.0,55.0,China
+77,Cadillac,Valtteri Bottas,13.0,19.0,Lapped,0.0,55.0,China
+31,Haas F1 Team,Esteban Ocon,14.0,13.0,Lapped,0.0,55.0,China
+11,Cadillac,Sergio Perez,15.0,21.0,Lapped,0.0,55.0,China
+3,Red Bull Racing,Max Verstappen,16.0,8.0,Retired,0.0,45.0,China
+14,Aston Martin,Fernando Alonso,17.0,18.0,Retired,0.0,32.0,China
+18,Aston Martin,Lance Stroll,18.0,20.0,Retired,0.0,9.0,China
+81,McLaren,Oscar Piastri,19.0,5.0,Did not start,0.0,0.0,China
+1,McLaren,Lando Norris,20.0,6.0,Did not start,0.0,0.0,China
+5,Audi,Gabriel Bortoleto,21.0,16.0,Did not start,0.0,0.0,China
+23,Williams,Alexander Albon,22.0,22.0,Did not start,0.0,0.0,China
+12,Mercedes,Kimi Antonelli,1.0,1.0,Finished,25.0,53.0,Japan
+81,McLaren,Oscar Piastri,2.0,3.0,Finished,18.0,53.0,Japan
+16,Ferrari,Charles Leclerc,3.0,4.0,Finished,15.0,53.0,Japan
+63,Mercedes,George Russell,4.0,2.0,Finished,12.0,53.0,Japan
+1,McLaren,Lando Norris,5.0,5.0,Finished,10.0,53.0,Japan
+44,Ferrari,Lewis Hamilton,6.0,6.0,Finished,8.0,53.0,Japan
+10,Alpine,Pierre Gasly,7.0,7.0,Finished,6.0,53.0,Japan
+3,Red Bull Racing,Max Verstappen,8.0,11.0,Finished,4.0,53.0,Japan
+30,Racing Bulls,Liam Lawson,9.0,14.0,Finished,2.0,53.0,Japan
+31,Haas F1 Team,Esteban Ocon,10.0,12.0,Finished,1.0,53.0,Japan
+27,Audi,Nico Hulkenberg,11.0,13.0,Finished,0.0,53.0,Japan
+6,Red Bull Racing,Isack Hadjar,12.0,8.0,Finished,0.0,53.0,Japan
+5,Audi,Gabriel Bortoleto,13.0,9.0,Finished,0.0,53.0,Japan
+41,Racing Bulls,Arvid Lindblad,14.0,10.0,Finished,0.0,53.0,Japan
+55,Williams,Carlos Sainz,15.0,16.0,Finished,0.0,53.0,Japan
+43,Alpine,Franco Colapinto,16.0,15.0,Finished,0.0,53.0,Japan
+11,Cadillac,Sergio Perez,17.0,19.0,Finished,0.0,53.0,Japan
+14,Aston Martin,Fernando Alonso,18.0,21.0,Lapped,0.0,52.0,Japan
+77,Cadillac,Valtteri Bottas,19.0,20.0,Lapped,0.0,52.0,Japan
+23,Williams,Alexander Albon,20.0,17.0,Lapped,0.0,51.0,Japan
+18,Aston Martin,Lance Stroll,21.0,22.0,Retired,0.0,30.0,Japan
+87,Haas F1 Team,Oliver Bearman,22.0,18.0,Retired,0.0,20.0,Japan
+12,Mercedes,Kimi Antonelli,1.0,1.0,Finished,25.0,57.0,Miami
+1,McLaren,Lando Norris,2.0,4.0,Finished,18.0,57.0,Miami
+81,McLaren,Oscar Piastri,3.0,7.0,Finished,15.0,57.0,Miami
+63,Mercedes,George Russell,4.0,5.0,Finished,12.0,57.0,Miami
+3,Red Bull Racing,Max Verstappen,5.0,2.0,Finished,10.0,57.0,Miami
+44,Ferrari,Lewis Hamilton,6.0,6.0,Finished,8.0,57.0,Miami
+43,Alpine,Franco Colapinto,7.0,8.0,Finished,6.0,57.0,Miami
+16,Ferrari,Charles Leclerc,8.0,3.0,Finished,4.0,57.0,Miami
+55,Williams,Carlos Sainz,9.0,13.0,Finished,2.0,57.0,Miami
+23,Williams,Alexander Albon,10.0,15.0,Finished,1.0,57.0,Miami
+87,Haas F1 Team,Oliver Bearman,11.0,12.0,Lapped,0.0,56.0,Miami
+5,Audi,Gabriel Bortoleto,12.0,21.0,Lapped,0.0,56.0,Miami
+31,Haas F1 Team,Esteban Ocon,13.0,14.0,Lapped,0.0,56.0,Miami
+41,Racing Bulls,Arvid Lindblad,14.0,16.0,Lapped,0.0,56.0,Miami
+14,Aston Martin,Fernando Alonso,15.0,17.0,Lapped,0.0,56.0,Miami
+11,Cadillac,Sergio Perez,16.0,20.0,Lapped,0.0,56.0,Miami
+18,Aston Martin,Lance Stroll,17.0,18.0,Lapped,0.0,56.0,Miami
+77,Cadillac,Valtteri Bottas,18.0,19.0,Lapped,0.0,55.0,Miami
+27,Audi,Nico Hulkenberg,19.0,10.0,Retired,0.0,7.0,Miami
+30,Racing Bulls,Liam Lawson,20.0,11.0,Retired,0.0,6.0,Miami
+10,Alpine,Pierre Gasly,21.0,9.0,Retired,0.0,4.0,Miami
+6,Red Bull Racing,Isack Hadjar,22.0,22.0,Retired,0.0,4.0,Miami
+12,Mercedes,Kimi Antonelli,1.0,2.0,Finished,25.0,68.0,Canada
+44,Ferrari,Lewis Hamilton,2.0,5.0,Finished,18.0,68.0,Canada
+3,Red Bull Racing,Max Verstappen,3.0,6.0,Finished,15.0,68.0,Canada
+16,Ferrari,Charles Leclerc,4.0,8.0,Finished,12.0,68.0,Canada
+6,Red Bull Racing,Isack Hadjar,5.0,7.0,Lapped,10.0,67.0,Canada
+43,Alpine,Franco Colapinto,6.0,10.0,Lapped,8.0,67.0,Canada
+30,Racing Bulls,Liam Lawson,7.0,12.0,Lapped,6.0,67.0,Canada
+10,Alpine,Pierre Gasly,8.0,14.0,Lapped,4.0,67.0,Canada
+55,Williams,Carlos Sainz,9.0,15.0,Lapped,2.0,67.0,Canada
+87,Haas F1 Team,Oliver Bearman,10.0,16.0,Lapped,1.0,67.0,Canada
+81,McLaren,Oscar Piastri,11.0,4.0,Lapped,0.0,66.0,Canada
+27,Audi,Nico Hulkenberg,12.0,11.0,Lapped,0.0,66.0,Canada
+5,Audi,Gabriel Bortoleto,13.0,13.0,Lapped,0.0,66.0,Canada
+31,Haas F1 Team,Esteban Ocon,14.0,17.0,Lapped,0.0,66.0,Canada
+18,Aston Martin,Lance Stroll,15.0,22.0,Lapped,0.0,64.0,Canada
+77,Cadillac,Valtteri Bottas,16.0,21.0,Lapped,0.0,64.0,Canada
+11,Cadillac,Sergio Perez,17.0,20.0,Retired,0.0,39.0,Canada
+1,McLaren,Lando Norris,18.0,3.0,Retired,0.0,38.0,Canada
+63,Mercedes,George Russell,19.0,1.0,Retired,0.0,29.0,Canada
+14,Aston Martin,Fernando Alonso,20.0,19.0,Retired,0.0,23.0,Canada
+23,Williams,Alexander Albon,21.0,18.0,Retired,0.0,11.0,Canada
+41,Racing Bulls,Arvid Lindblad,22.0,9.0,Did not start,0.0,0.0,Canada
+12,Mercedes,Kimi Antonelli,1.0,1.0,Finished,25.0,78.0,Monaco
+44,Ferrari,Lewis Hamilton,2.0,3.0,Finished,18.0,78.0,Monaco
+10,Alpine,Pierre Gasly,3.0,9.0,Finished,15.0,78.0,Monaco
+6,Red Bull Racing,Isack Hadjar,4.0,5.0,Finished,12.0,78.0,Monaco
+81,McLaren,Oscar Piastri,5.0,7.0,Finished,10.0,78.0,Monaco
+30,Racing Bulls,Liam Lawson,6.0,10.0,Finished,8.0,78.0,Monaco
+41,Racing Bulls,Arvid Lindblad,7.0,15.0,Finished,6.0,78.0,Monaco
+23,Williams,Alexander Albon,8.0,11.0,Finished,4.0,78.0,Monaco
+31,Haas F1 Team,Esteban Ocon,9.0,17.0,Finished,2.0,78.0,Monaco
+14,Aston Martin,Fernando Alonso,10.0,21.0,Finished,1.0,78.0,Monaco
+5,Audi,Gabriel Bortoleto,11.0,16.0,Finished,0.0,78.0,Monaco
+63,Mercedes,George Russell,12.0,6.0,Finished,0.0,78.0,Monaco
+27,Audi,Nico Hulkenberg,13.0,13.0,Finished,0.0,78.0,Monaco
+43,Alpine,Franco Colapinto,14.0,14.0,Finished,0.0,78.0,Monaco
+11,Cadillac,Sergio Perez,15.0,18.0,Finished,0.0,78.0,Monaco
+55,Williams,Carlos Sainz,16.0,12.0,Retired,0.0,70.0,Monaco
+16,Ferrari,Charles Leclerc,17.0,4.0,Retired,0.0,64.0,Monaco
+18,Aston Martin,Lance Stroll,18.0,22.0,Retired,0.0,56.0,Monaco
+1,McLaren,Lando Norris,19.0,8.0,Retired,0.0,43.0,Monaco
+87,Haas F1 Team,Oliver Bearman,20.0,19.0,Retired,0.0,27.0,Monaco
+77,Cadillac,Valtteri Bottas,21.0,20.0,Retired,0.0,15.0,Monaco
+3,Red Bull Racing,Max Verstappen,22.0,2.0,Retired,0.0,0.0,Monaco
+63,Mercedes,George Russell,1.0,1.0,Finished,25.0,71.0,Austria
+3,Red Bull Racing,Max Verstappen,2.0,5.0,Finished,18.0,71.0,Austria
+12,Mercedes,Kimi Antonelli,3.0,4.0,Finished,15.0,71.0,Austria
+81,McLaren,Oscar Piastri,4.0,7.0,Finished,12.0,71.0,Austria
+44,Ferrari,Lewis Hamilton,5.0,3.0,Finished,10.0,71.0,Austria
+6,Red Bull Racing,Isack Hadjar,6.0,8.0,Finished,8.0,71.0,Austria
+1,McLaren,Lando Norris,7.0,6.0,Finished,6.0,71.0,Austria
+16,Ferrari,Charles Leclerc,8.0,2.0,Finished,4.0,71.0,Austria
+30,Racing Bulls,Liam Lawson,9.0,9.0,Lapped,2.0,70.0,Austria
+41,Racing Bulls,Arvid Lindblad,10.0,10.0,Lapped,1.0,70.0,Austria
+5,Audi,Gabriel Bortoleto,11.0,12.0,Lapped,0.0,70.0,Austria
+27,Audi,Nico Hulkenberg,12.0,14.0,Lapped,0.0,70.0,Austria
+10,Alpine,Pierre Gasly,13.0,11.0,Lapped,0.0,70.0,Austria
+87,Haas F1 Team,Oliver Bearman,14.0,13.0,Lapped,0.0,70.0,Austria
+43,Alpine,Franco Colapinto,15.0,16.0,Lapped,0.0,70.0,Austria
+31,Haas F1 Team,Esteban Ocon,16.0,15.0,Lapped,0.0,69.0,Austria
+23,Williams,Alexander Albon,17.0,18.0,Lapped,0.0,69.0,Austria
+14,Aston Martin,Fernando Alonso,18.0,21.0,Lapped,0.0,68.0,Austria
+18,Aston Martin,Lance Stroll,19.0,22.0,Retired,0.0,45.0,Austria
+55,Williams,Carlos Sainz,20.0,17.0,Retired,0.0,23.0,Austria
+11,Cadillac,Sergio Perez,21.0,19.0,Retired,0.0,4.0,Austria
+77,Cadillac,Valtteri Bottas,22.0,20.0,Retired,0.0,2.0,Austria
+63,Mercedes,George Russell,1.0,1.0,Finished,25.0,71.0,Great Britain
+3,Red Bull Racing,Max Verstappen,2.0,5.0,Finished,18.0,71.0,Great Britain
+12,Mercedes,Kimi Antonelli,3.0,4.0,Finished,15.0,71.0,Great Britain
+81,McLaren,Oscar Piastri,4.0,7.0,Finished,12.0,71.0,Great Britain
+44,Ferrari,Lewis Hamilton,5.0,3.0,Finished,10.0,71.0,Great Britain
+6,Red Bull Racing,Isack Hadjar,6.0,8.0,Finished,8.0,71.0,Great Britain
+1,McLaren,Lando Norris,7.0,6.0,Finished,6.0,71.0,Great Britain
+16,Ferrari,Charles Leclerc,8.0,2.0,Finished,4.0,71.0,Great Britain
+30,Racing Bulls,Liam Lawson,9.0,9.0,Lapped,2.0,70.0,Great Britain
+41,Racing Bulls,Arvid Lindblad,10.0,10.0,Lapped,1.0,70.0,Great Britain
+5,Audi,Gabriel Bortoleto,11.0,12.0,Lapped,0.0,70.0,Great Britain
+27,Audi,Nico Hulkenberg,12.0,14.0,Lapped,0.0,70.0,Great Britain
+10,Alpine,Pierre Gasly,13.0,11.0,Lapped,0.0,70.0,Great Britain
+87,Haas F1 Team,Oliver Bearman,14.0,13.0,Lapped,0.0,70.0,Great Britain
+43,Alpine,Franco Colapinto,15.0,16.0,Lapped,0.0,70.0,Great Britain
+31,Haas F1 Team,Esteban Ocon,16.0,15.0,Lapped,0.0,69.0,Great Britain
+23,Williams,Alexander Albon,17.0,18.0,Lapped,0.0,69.0,Great Britain
+14,Aston Martin,Fernando Alonso,18.0,21.0,Lapped,0.0,68.0,Great Britain
+18,Aston Martin,Lance Stroll,19.0,22.0,Retired,0.0,45.0,Great Britain
+55,Williams,Carlos Sainz,20.0,17.0,Retired,0.0,23.0,Great Britain
+11,Cadillac,Sergio Perez,21.0,19.0,Retired,0.0,4.0,Great Britain
+77,Cadillac,Valtteri Bottas,22.0,20.0,Retired,0.0,2.0,Great Britain
+12,Mercedes,Kimi Antonelli,1.0,1.0,Finished,25.0,44.0,Belgium
+16,Ferrari,Charles Leclerc,2.0,4.0,Finished,18.0,44.0,Belgium
+3,Red Bull Racing,Max Verstappen,3.0,2.0,Finished,15.0,44.0,Belgium
+44,Ferrari,Lewis Hamilton,4.0,5.0,Finished,12.0,44.0,Belgium
+81,McLaren,Oscar Piastri,5.0,6.0,Finished,10.0,44.0,Belgium
+6,Red Bull Racing,Isack Hadjar,6.0,21.0,Finished,8.0,44.0,Belgium
+1,McLaren,Lando Norris,7.0,13.0,Finished,6.0,44.0,Belgium
+5,Audi,Gabriel Bortoleto,8.0,8.0,Finished,4.0,44.0,Belgium
+41,Racing Bulls,Arvid Lindblad,9.0,7.0,Finished,2.0,44.0,Belgium
+43,Alpine,Franco Colapinto,10.0,11.0,Finished,1.0,44.0,Belgium
+10,Alpine,Pierre Gasly,11.0,10.0,Finished,0.0,44.0,Belgium
+30,Racing Bulls,Liam Lawson,12.0,9.0,Finished,0.0,44.0,Belgium
+27,Audi,Nico Hulkenberg,13.0,12.0,Finished,0.0,44.0,Belgium
+87,Haas F1 Team,Oliver Bearman,14.0,14.0,Finished,0.0,44.0,Belgium
+23,Williams,Alexander Albon,15.0,15.0,Finished,0.0,44.0,Belgium
+55,Williams,Carlos Sainz,16.0,19.0,Finished,0.0,44.0,Belgium
+31,Haas F1 Team,Esteban Ocon,17.0,16.0,Finished,0.0,44.0,Belgium
+77,Cadillac,Valtteri Bottas,18.0,17.0,Lapped,0.0,43.0,Belgium
+14,Aston Martin,Fernando Alonso,19.0,22.0,Lapped,0.0,42.0,Belgium
+18,Aston Martin,Lance Stroll,20.0,20.0,Retired,0.0,25.0,Belgium
+11,Cadillac,Sergio Perez,21.0,18.0,Retired,0.0,13.0,Belgium
+63,Mercedes,George Russell,22.0,3.0,Retired,0.0,0.0,Belgium
+1,McLaren,Lando Norris,1.0,1.0,Finished,25.0,70.0,Hungary
+3,Red Bull Racing,Max Verstappen,2.0,4.0,Finished,18.0,70.0,Hungary
+12,Mercedes,Kimi Antonelli,3.0,7.0,Finished,15.0,70.0,Hungary
+16,Ferrari,Charles Leclerc,4.0,2.0,Finished,12.0,70.0,Hungary
+44,Ferrari,Lewis Hamilton,5.0,5.0,Finished,10.0,70.0,Hungary
+6,Red Bull Racing,Isack Hadjar,6.0,8.0,Finished,8.0,70.0,Hungary
+63,Mercedes,George Russell,7.0,6.0,Finished,6.0,70.0,Hungary
+30,Racing Bulls,Liam Lawson,8.0,11.0,Lapped,4.0,69.0,Hungary
+27,Audi,Nico Hulkenberg,9.0,10.0,Lapped,2.0,69.0,Hungary
+41,Racing Bulls,Arvid Lindblad,10.0,9.0,Lapped,1.0,69.0,Hungary
+5,Audi,Gabriel Bortoleto,11.0,14.0,Lapped,0.0,69.0,Hungary
+10,Alpine,Pierre Gasly,12.0,12.0,Lapped,0.0,69.0,Hungary
+18,Aston Martin,Lance Stroll,13.0,20.0,Lapped,0.0,69.0,Hungary
+14,Aston Martin,Fernando Alonso,14.0,16.0,Lapped,0.0,69.0,Hungary
+43,Alpine,Franco Colapinto,15.0,13.0,Lapped,0.0,68.0,Hungary
+31,Haas F1 Team,Esteban Ocon,16.0,15.0,Lapped,0.0,68.0,Hungary
+23,Williams,Alexander Albon,17.0,19.0,Lapped,0.0,68.0,Hungary
+55,Williams,Carlos Sainz,18.0,18.0,Lapped,0.0,68.0,Hungary
+87,Haas F1 Team,Oliver Bearman,19.0,17.0,Lapped,0.0,68.0,Hungary
+81,McLaren,Oscar Piastri,20.0,3.0,Retired,0.0,55.0,Hungary
+11,Cadillac,Sergio Perez,21.0,22.0,Retired,0.0,48.0,Hungary
+77,Cadillac,Valtteri Bottas,22.0,21.0,Retired,0.0,13.0,Hungary

@@ -1,0 +1,23 @@
+DriverNumber,FullName,TeamName,Position,GridPosition,Status,Points,Laps,Time
+63,George Russell,Mercedes,1.0,1.0,Finished,25.0,58.0,0 days 01:23:06.801000
+12,Kimi Antonelli,Mercedes,2.0,2.0,Finished,18.0,58.0,0 days 00:00:02.974000
+16,Charles Leclerc,Ferrari,3.0,4.0,Finished,15.0,58.0,0 days 00:00:15.519000
+44,Lewis Hamilton,Ferrari,4.0,7.0,Finished,12.0,58.0,0 days 00:00:16.144000
+1,Lando Norris,McLaren,5.0,6.0,Finished,10.0,58.0,0 days 00:00:51.741000
+3,Max Verstappen,Red Bull Racing,6.0,20.0,Finished,8.0,58.0,0 days 00:00:54.617000
+87,Oliver Bearman,Haas F1 Team,7.0,12.0,Lapped,6.0,57.0,0 days 00:00:04.593000
+41,Arvid Lindblad,Racing Bulls,8.0,9.0,Lapped,4.0,57.0,0 days 00:00:11.816000
+5,Gabriel Bortoleto,Audi,9.0,10.0,Lapped,2.0,57.0,0 days 00:00:12.775000
+10,Pierre Gasly,Alpine,10.0,14.0,Lapped,1.0,57.0,0 days 00:00:29.027000
+31,Esteban Ocon,Haas F1 Team,11.0,13.0,Lapped,0.0,57.0,0 days 00:00:29.850000
+23,Alexander Albon,Williams,12.0,15.0,Lapped,0.0,57.0,0 days 00:00:56.075000
+30,Liam Lawson,Racing Bulls,13.0,8.0,Lapped,0.0,57.0,0 days 00:00:57.173000
+43,Franco Colapinto,Alpine,14.0,16.0,Lapped,0.0,56.0,0 days 00:00:08.487000
+55,Carlos Sainz,Williams,15.0,21.0,Lapped,0.0,56.0,0 days 00:00:36.886000
+11,Sergio Perez,Cadillac,16.0,18.0,Lapped,0.0,55.0,0 days 00:00:07.850000
+18,Lance Stroll,Aston Martin,17.0,22.0,Lapped,0.0,43.0,
+14,Fernando Alonso,Aston Martin,18.0,17.0,Retired,0.0,21.0,
+77,Valtteri Bottas,Cadillac,19.0,19.0,Retired,0.0,15.0,
+6,Isack Hadjar,Red Bull Racing,20.0,3.0,Retired,0.0,10.0,
+81,Oscar Piastri,McLaren,21.0,5.0,Did not start,0.0,0.0,
+27,Nico Hulkenberg,Audi,22.0,11.0,Did not start,0.0,0.0,
