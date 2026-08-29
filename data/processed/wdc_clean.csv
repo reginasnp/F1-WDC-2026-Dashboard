@@ -153,28 +153,28 @@ DriverNumber,TeamName,FullName,Position,GridPosition,Status,Points,Laps,GrandPri
 55,Williams,Carlos Sainz,20.0,17.0,Retired,0.0,23.0,Austria
 11,Cadillac,Sergio Perez,21.0,19.0,Retired,0.0,4.0,Austria
 77,Cadillac,Valtteri Bottas,22.0,20.0,Retired,0.0,2.0,Austria
-63,Mercedes,George Russell,1.0,1.0,Finished,25.0,71.0,Great Britain
-3,Red Bull Racing,Max Verstappen,2.0,5.0,Finished,18.0,71.0,Great Britain
-12,Mercedes,Kimi Antonelli,3.0,4.0,Finished,15.0,71.0,Great Britain
-81,McLaren,Oscar Piastri,4.0,7.0,Finished,12.0,71.0,Great Britain
-44,Ferrari,Lewis Hamilton,5.0,3.0,Finished,10.0,71.0,Great Britain
-6,Red Bull Racing,Isack Hadjar,6.0,8.0,Finished,8.0,71.0,Great Britain
-1,McLaren,Lando Norris,7.0,6.0,Finished,6.0,71.0,Great Britain
-16,Ferrari,Charles Leclerc,8.0,2.0,Finished,4.0,71.0,Great Britain
-30,Racing Bulls,Liam Lawson,9.0,9.0,Lapped,2.0,70.0,Great Britain
-41,Racing Bulls,Arvid Lindblad,10.0,10.0,Lapped,1.0,70.0,Great Britain
-5,Audi,Gabriel Bortoleto,11.0,12.0,Lapped,0.0,70.0,Great Britain
-27,Audi,Nico Hulkenberg,12.0,14.0,Lapped,0.0,70.0,Great Britain
-10,Alpine,Pierre Gasly,13.0,11.0,Lapped,0.0,70.0,Great Britain
-87,Haas F1 Team,Oliver Bearman,14.0,13.0,Lapped,0.0,70.0,Great Britain
-43,Alpine,Franco Colapinto,15.0,16.0,Lapped,0.0,70.0,Great Britain
-31,Haas F1 Team,Esteban Ocon,16.0,15.0,Lapped,0.0,69.0,Great Britain
-23,Williams,Alexander Albon,17.0,18.0,Lapped,0.0,69.0,Great Britain
-14,Aston Martin,Fernando Alonso,18.0,21.0,Lapped,0.0,68.0,Great Britain
-18,Aston Martin,Lance Stroll,19.0,22.0,Retired,0.0,45.0,Great Britain
-55,Williams,Carlos Sainz,20.0,17.0,Retired,0.0,23.0,Great Britain
-11,Cadillac,Sergio Perez,21.0,19.0,Retired,0.0,4.0,Great Britain
-77,Cadillac,Valtteri Bottas,22.0,20.0,Retired,0.0,2.0,Great Britain
+16,Ferrari,Charles Leclerc,1.0,2.0,Finished,25.0,52.0,Great Britain
+63,Mercedes,George Russell,2.0,4.0,Finished,18.0,52.0,Great Britain
+44,Ferrari,Lewis Hamilton,3.0,3.0,Finished,15.0,52.0,Great Britain
+1,McLaren,Lando Norris,4.0,6.0,Finished,12.0,52.0,Great Britain
+6,Red Bull Racing,Isack Hadjar,5.0,5.0,Finished,10.0,52.0,Great Britain
+30,Racing Bulls,Liam Lawson,6.0,10.0,Finished,8.0,52.0,Great Britain
+41,Racing Bulls,Arvid Lindblad,7.0,9.0,Finished,6.0,52.0,Great Britain
+5,Audi,Gabriel Bortoleto,8.0,11.0,Finished,4.0,52.0,Great Britain
+43,Alpine,Franco Colapinto,9.0,19.0,Finished,2.0,52.0,Great Britain
+10,Alpine,Pierre Gasly,10.0,15.0,Finished,1.0,52.0,Great Britain
+81,McLaren,Oscar Piastri,11.0,8.0,Finished,0.0,52.0,Great Britain
+87,Haas F1 Team,Oliver Bearman,12.0,13.0,Finished,0.0,52.0,Great Britain
+31,Haas F1 Team,Esteban Ocon,13.0,17.0,Finished,0.0,52.0,Great Britain
+11,Cadillac,Sergio Perez,14.0,20.0,Finished,0.0,52.0,Great Britain
+12,Mercedes,Kimi Antonelli,15.0,1.0,Finished,0.0,52.0,Great Britain
+77,Cadillac,Valtteri Bottas,16.0,18.0,Finished,0.0,52.0,Great Britain
+55,Williams,Carlos Sainz,17.0,14.0,Lapped,0.0,51.0,Great Britain
+14,Aston Martin,Fernando Alonso,18.0,21.0,Lapped,0.0,51.0,Great Britain
+18,Aston Martin,Lance Stroll,19.0,22.0,Lapped,0.0,51.0,Great Britain
+3,Red Bull Racing,Max Verstappen,20.0,7.0,Retired,0.0,46.0,Great Britain
+23,Williams,Alexander Albon,21.0,16.0,Retired,0.0,43.0,Great Britain
+27,Audi,Nico Hulkenberg,22.0,12.0,Retired,0.0,36.0,Great Britain
 12,Mercedes,Kimi Antonelli,1.0,1.0,Finished,25.0,44.0,Belgium
 16,Ferrari,Charles Leclerc,2.0,4.0,Finished,18.0,44.0,Belgium
 3,Red Bull Racing,Max Verstappen,3.0,2.0,Finished,15.0,44.0,Belgium
@@ -219,3 +219,25 @@ DriverNumber,TeamName,FullName,Position,GridPosition,Status,Points,Laps,GrandPri
 81,McLaren,Oscar Piastri,20.0,3.0,Retired,0.0,55.0,Hungary
 11,Cadillac,Sergio Perez,21.0,22.0,Retired,0.0,48.0,Hungary
 77,Cadillac,Valtteri Bottas,22.0,21.0,Retired,0.0,13.0,Hungary
+1,McLaren,Lando Norris,1.0,1.0,Finished,25.0,72.0,Netherlands
+12,Mercedes,Kimi Antonelli,2.0,3.0,Finished,18.0,72.0,Netherlands
+63,Mercedes,George Russell,3.0,2.0,Finished,15.0,72.0,Netherlands
+44,Ferrari,Lewis Hamilton,4.0,5.0,Finished,12.0,72.0,Netherlands
+16,Ferrari,Charles Leclerc,5.0,6.0,Finished,10.0,72.0,Netherlands
+81,McLaren,Oscar Piastri,6.0,4.0,Finished,8.0,72.0,Netherlands
+30,Red Bull Racing,Liam Lawson,7.0,8.0,Finished,6.0,72.0,Netherlands
+27,Audi,Nico Hulkenberg,8.0,13.0,Lapped,4.0,71.0,Netherlands
+14,Aston Martin,Fernando Alonso,9.0,18.0,Lapped,2.0,71.0,Netherlands
+10,Alpine,Pierre Gasly,10.0,11.0,Lapped,1.0,71.0,Netherlands
+22,Racing Bulls,Yuki Tsunoda,11.0,12.0,Lapped,0.0,71.0,Netherlands
+41,Racing Bulls,Arvid Lindblad,12.0,10.0,Lapped,0.0,71.0,Netherlands
+5,Audi,Gabriel Bortoleto,13.0,9.0,Lapped,0.0,71.0,Netherlands
+43,Alpine,Franco Colapinto,14.0,14.0,Lapped,0.0,70.0,Netherlands
+11,Cadillac,Sergio Perez,15.0,22.0,Lapped,0.0,70.0,Netherlands
+55,Williams,Carlos Sainz,16.0,17.0,Lapped,0.0,70.0,Netherlands
+23,Williams,Alexander Albon,17.0,16.0,Retired,0.0,66.0,Netherlands
+77,Cadillac,Valtteri Bottas,18.0,21.0,Retired,0.0,61.0,Netherlands
+31,Haas F1 Team,Esteban Ocon,19.0,15.0,Retired,0.0,52.0,Netherlands
+18,Aston Martin,Lance Stroll,20.0,19.0,Retired,0.0,45.0,Netherlands
+87,Haas F1 Team,Oliver Bearman,21.0,20.0,Retired,0.0,2.0,Netherlands
+3,Red Bull Racing,Max Verstappen,22.0,7.0,Retired,0.0,0.0,Netherlands
